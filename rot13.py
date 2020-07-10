@@ -1,6 +1,5 @@
 print("""
 ##########################
-##### @author 0days0 #####
 ##### ROT13 Chipher  #####
 ##########################""")
 # 10.04.2020
@@ -16,5 +15,3 @@ def cümle():
     print("Şifreli metniniz: ", rot13(yazi))
 
 cümle()
-
-
